@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import _default from '../../themes/default';
+// import _default from '../../themes/default';
 
 export const Container = styled.div`
     background: linear-gradient(343.07deg, rgba(132, 59, 206, 0.06) 5.71%, rgba(132, 59, 206, 0) 64.83%);
@@ -80,11 +80,6 @@ export const ToggleButton = styled.div`
         border-radius: 4px;
     }
 `
-export const Divider = styled.div`
-    width: 1.5px;
-    background: ${({ theme }) => theme.primary};
-`
-
 
 export const CardContainer = styled.div`
     display: flex;
