@@ -140,7 +140,7 @@ export const education = [
     img: "https://ik.imagekit.io/lv6oryuzs/aissmslogo.png?updatedAt=1757738718119",
     school: "AISSMS Institute of Information Technology, Pune",
     date: "2024 - 2027",
-    grade: "8.61 CGPA",
+    grade: "8.68 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Information Technology at AISSMS Institute of Information Technology, Pune. I have completed the initial semesters with a CGPA of 8.61. My coursework includes Data Structures, Algorithms, Database Management Systems, Operating Systems, and Software Engineering.",
     degree: "Bachelor of Technology - BTech, Information Technology",
     status: "Pursuing",
